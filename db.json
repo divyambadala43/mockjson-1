@@ -95,6 +95,30 @@
          "image2":null,
          "image3":null,
          "image4":null
+      },
+      {
+         "title":"Logitech G213 Gaming Keyboard",
+         "slug":"logitech-g213-gaming-keyboard",
+         "description":"Prodigy series Logitech G keyboard for advanced gaming-grade performance is up to 4x faster than standard keyboards, so every keypress is near instantaneous from fingers to screen",
+         "price":"3495.00",
+         "tags":"mechanical, rgb, usb",
+         "rating":"4.6",
+         "image1":null,
+         "image2":null,
+         "image3":null,
+         "image4":null
+      },
+      {
+         "title":"Logitech G213 Gaming Keyboard",
+         "slug":"logitech-g213-gaming-keyboard",
+         "description":"Prodigy series Logitech G keyboard for advanced gaming-grade performance is up to 4x faster than standard keyboards, so every keypress is near instantaneous from fingers to screen",
+         "price":"3495.00",
+         "tags":"mechanical, rgb, usb",
+         "rating":"4.6",
+         "image1":null,
+         "image2":null,
+         "image3":null,
+         "image4":null
       }
    ]
 }
